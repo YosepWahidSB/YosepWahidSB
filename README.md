@@ -1,6 +1,5 @@
 ## Hi, I'm Yosep 👋  
-developer who loves Linux, clean code and novel. this my second/backup account
-for main account  [YosepWahid](https://github.com/YosepWahid)
+developer who loves Linux, clean code and novel. this my second account, main account  [YosepWahid](https://github.com/YosepWahid)
 
 - 🧠 Focus: linux arcitecture, Linux servers, Backend, and new tech 
 - 🛠️ Tools: Ruby, Bash, Python, PostgreSQL, Docker, laravel and anything else
